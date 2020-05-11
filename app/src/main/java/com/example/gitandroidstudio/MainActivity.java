@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.i("MainActivity","Git Push Tutorial");
+        Log.i("TAG","Git Push Tutorial");
+        Log.i("TAG","MainActivity");
+
     }
 }
